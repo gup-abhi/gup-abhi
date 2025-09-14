@@ -1,14 +1,16 @@
-# Hey, I'm Abhishek! 👨‍💻
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Hey%20I'm%20Abhishek&color=gradient&customColorList=30&fontColor=F0F6FC&fontSize=50&fontAlign=50&fontAlignY=40&animation=scaleIn&stroke=191970&strokeWidth=2" alt="header" />
+</div>
+
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Building+cool+stuff+with+code;MERN+stack+wizard;AI+integration+enthusiast;Coffee+%2B+Code+%3D+Magic)](https://git.io/typing-svg)
-
+  <img src="https://github.com/gup-abhi/gup-abhi/blob/master/Northern_Lights.gif" alt="Northern Lights" width="600" height="400" style="border-radius: 50%; margin-right: 30px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Building+cool+stuff+with+code;MERN+stack+wizard;AI+integration+enthusiast;Coffee+%2B+Code+%3D+Magic" alt="Typing SVG" />
 </div>
 
 ## 🎯 What I'm all about
 
-Just a developer who loves turning caffeine into code! Currently diving deep into AI integrations while pursuing my Master's at Concordia University in Montreal. I get excited about building things that actually solve problems and make people's lives easier.
+Just a developer who loves turning caffeine into code! Currently diving deep into AI integrations while looking for next opportunity to create an impact. I get excited about building things that actually solve problems and make people's lives easier.
 
 When I'm not coding, you'll probably find me:
 - 🤖 Experimenting with AI-powered features
@@ -20,7 +22,7 @@ When I'm not coding, you'll probably find me:
 
 ```typescript
 const currentlyBuilding = {
-  projects: ["AI Journal App", "Expense tracking tools"],
+  projects: ["AI Journal App"],
   learning: ["AI Usecases", "AI Agents", "System Design"],
   exploring: ["AI automation workflows", "React Native", "n8n"],
   nextGoal: "Create a product that becomes as natural as brushing your teeth—something people can’t imagine their day without.'"
@@ -32,42 +34,46 @@ const currentlyBuilding = {
 The tech I love working with (and the ones that love me back):
 
 **Frontend Magic** ✨  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=react,angular,bootstrap,tailwind,css,html" />
 
 **Backend Wizardry** 🧙‍♂️  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
 
 **Data & Storage** 🗃️  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,sqlite,mysql,supabase" />
 
 **Cloud & DevOps** ☁️  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github" />
+
+**Programming Languages** 💻
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java" />
+
+**Operating Systems** 🖥️
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,kali" />
+
 
 ## 📊 GitHub Stats (because we all love numbers)
 
 <div align="center">
   
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/gup-abhi)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gup-abhi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/gup-abhi)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)](https://github.com/gup-abhi)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gup-abhi&theme=tokyonight&hide_border=true)](https://github.com/gup-abhi)
 
 </div>
 
 ## 🚀 Some stuff I've built
 
-### 🧠 [AI Journal App](https://ai-journaling.onrender.com/)
+### 🧠 [AI Journal App (Currently Working On)](https://ai-journaling.onrender.com/)
 Ever wanted to know what your journal entries really mean? This app uses AI to analyze your thoughts and give you insights about your mood and themes. It's like having a therapist, but cheaper! 
 
-*Built with: React, Node.js, MongoDB, AI APIs*
+*Built with: React Native, Node.js, MongoDB, AI APIs, Supabase*
 
 ### 💸 [Expense Wallet](https://github.com/gup-abhi/expense-wallet-frontend)
 Because tracking expenses shouldn't be as painful as spending money. Clean, simple, and works on your phone too.
@@ -96,17 +102,25 @@ Real-time messaging with all the bells and whistles. Online status, media sharin
 
 ## 📈 Contribution Activity
 
-[![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/gup-abhi)
+[![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gup-abhi&theme=tokyo-night&hide_border=true)](https://github.com/gup-abhi)
 
 ## 🌐 Let's connect!
 
-Always down for interesting conversations about tech, projects, or that new JavaScript framework everyone's talking about.
+Always down for interesting conversations about tech, projects, or that new AI models everyone's talking about.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.abhishek-gupta.tech/)
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gup-abhi/)
-[![Email](https://img.shields.io/badge/Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gupabhi20@gmail.com)
+<a title="Portfolio" href="https://www.abhishek-gupta.tech/" target="_blank">
+  <img height="50" width="50" src="https://github.com/gup-abhi/framer-portfolio/blob/master/public/icons/android-chrome-512x512.png">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a title="Linkedin Profile" href="https://www.linkedin.com/in/gup-abhi/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a title="Contact Me" href="mailto:gupabhi20@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail">
+</a>
 
 </div>
 
