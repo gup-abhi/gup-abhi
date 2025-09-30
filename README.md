@@ -5,7 +5,7 @@
   
   
   <div align="center">
-    <img src="https://image.pollinations.ai/prompt/https://text.pollinations.ai/generate%20just%20one%20prompt%20without%20any%20additional%20characters,%20give%20me%20a%20prompt%20to%20generate%20a%20cute%20animated%20style%20image?width=1920&height=1080&model=gptImage&nologo=true&enhance=true" alt="Northern Lights" width="600" height="400" style="border-radius: 50%; margin-right: 30px;">
+    <img src="https://image.pollinations.ai/prompt/A chubby cartoon panda wearing oversized glasses, typing furiously on a tiny laptop, surrounded by floating coffee cups and colorful code snippets, bright and cheerful colors, animated-style, funny and adorable?width=1920&height=1080&model=gptImage&nologo=true&enhance=true" alt="Northern Lights" width="600" height="400" style="border-radius: 50%; margin-right: 30px;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=2196F3&center=true&vCenter=true&width=750&lines=Building+cool+stuff+with+code;AI+Integration+Enthusiast;Cybersecurity+Enthusiast;Coffee+%2B+Code+%3D+Magic" alt="Typing SVG" />
   </div>
   
